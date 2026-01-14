@@ -8,7 +8,7 @@
 הפרויקט כולל חיפוש היפר-פרמטרים (Hyperparameter Search) כדי למצוא את השילוב האופטימלי בין מספר נוירונים, Dropout וקצב למידה.
 
 ## 📊 תוצאות הניסויים
-ריכזתי את כל 12 ההרצות שבוצעו בתוך קובץ ה-kmnist_results.csv.
+מצורף כל 12 ההרצות שבוצעו בתוך קובץ ה-kmnist_results.csv.
 התוצאה הטובה ביותר שהושגה: *89.65% Accuracy* (ניסוי מספר 10).
 
 ### Top 3 Experiments:
